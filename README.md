@@ -1,0 +1,2 @@
+# Project-on-Machine-Learning-Using-Logistic-Regeression-Clustering.
+This project applies Machine Learning to analyze customer data and predict churn using Logistic Regression and Random Forest. It also uses K-Means clustering to segment customers based on income and spending behavior. The goal is to identify high-value customers and support targeted marketing and better business decisions through data analysis.
